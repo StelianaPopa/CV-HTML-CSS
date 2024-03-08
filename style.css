@@ -1,0 +1,33 @@
+body {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-top: #005889 15px solid ;
+    margin: 0;
+}
+.blue{
+    color:#005889
+}
+.marg{
+    margin-bottom: 0;
+}
+.display1{
+    margin: 0;
+    padding: 0;
+    height: 20px;
+    display:flex; 
+    align-items: center;
+}
+
+.list-none{
+   list-style-type: none;
+}
+.display2{
+    display:flex; 
+    align-items: center; 
+    justify-content: space-between;
+
+}
+.hskills{
+    font-size: 20px;
+    font-weight: bold;
+}
